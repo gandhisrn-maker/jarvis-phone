@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="110" fill="#06101d"/>
+<circle cx="256" cy="256" r="175" fill="none" stroke="#55e6ff" stroke-width="7"/>
+<circle cx="256" cy="256" r="145" fill="none" stroke="#578dff" stroke-width="4" stroke-dasharray="12 16"/>
+<circle cx="256" cy="256" r="112" fill="#0c2b43" stroke="#55e6ff" stroke-width="4"/>
+<text x="256" y="300" font-family="Arial,sans-serif" font-size="150" font-weight="700" text-anchor="middle" fill="#eaf8ff">J</text>
+</svg>
